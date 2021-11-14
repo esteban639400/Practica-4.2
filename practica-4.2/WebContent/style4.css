@@ -1,0 +1,92 @@
+@charset "ISO-8859-1";
+body{
+	background-color: #F2CD93;
+	
+}
+
+header{
+	text-align: center;
+
+	font-family: sans-serif;	
+	color: #862F06;
+}
+h1.encabezado{
+	width: 50%;
+	position: absolute;
+	top: 10%;
+	left: 40px;
+	color: white;
+	font-size: xx-large;
+}
+section#uno{
+	background-color: #AB5312;
+	width: 100%;
+	height: 160px;
+}
+img#cuatro{
+	max-width:165px;
+width:100%;
+	position: absolute;
+	right: 40px;
+}
+
+div#uno{
+	position: absolute;
+	bottom: 52%;
+	left: 5%;
+	color: #862F06;
+	
+}
+img#whats{
+	max-width:250px;
+width:100%;
+	position: absolute;
+	left: 10%;
+	bottom: 42%;
+	
+}
+
+div#dos{
+	position: absolute;	
+	bottom: 35%;
+	left: 5%;
+	color: #862F06;
+}
+img#gmail{
+	max-width:200px;
+width:100%;
+	position: absolute;
+	left: 10%;
+	bottom: 22%;
+	
+}
+div#tres{
+	position: absolute;	
+	bottom: 18%;	
+	left: 5%;
+	color: #862F06;
+}
+img#insta{
+	max-width:250px;
+width:100%;
+	position: absolute;
+	left:10%;
+	bottom: 0%;
+	
+}
+iframe{
+	
+	position: absolute;
+	bottom: 10%;
+	left: 48%
+}
+
+footer{
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  color: white;
+text-align: center;	
+}
