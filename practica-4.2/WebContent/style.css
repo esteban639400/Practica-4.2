@@ -17,7 +17,9 @@ div#dos{
 	text-align: center;
 }
 div#tres{
-	text-align: right;
+	position: absolute;
+	left: 80%;
+	bottom: 10%;
 }
 img#carta{
 max-width:200px;
